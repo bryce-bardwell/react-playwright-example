@@ -1,6 +1,7 @@
 {
   "name": "react-example",
   "version": "0.1.0",
+  "repository": "git@github.com:bryce-bardwell/react-playwright-example.git",
   "private": true,
   "dependencies": {
     "@playwright/test": "^1.39.0",
