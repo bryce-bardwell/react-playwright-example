@@ -1,0 +1,134 @@
+[
+  {
+    "name": "should have correct page title",
+    "appName": "react-example",
+    "runs": [
+      {
+        "timestamp": 1699026546296,
+        "duration": 220,
+        "status": "PASSED"
+      }
+    ]
+  },
+  {
+    "name": "should have correct button description",
+    "appName": "react-example",
+    "runs": [
+      {
+        "timestamp": 1699026546304,
+        "duration": 220,
+        "status": "PASSED"
+      }
+    ]
+  },
+  {
+    "name": "should change background colour when button clicked once",
+    "appName": "react-example",
+    "runs": [
+      {
+        "timestamp": 1699026546304,
+        "duration": 423,
+        "status": "PASSED"
+      }
+    ]
+  },
+  {
+    "name": "should change background colour each time button is clicked",
+    "appName": "react-example",
+    "runs": [
+      {
+        "timestamp": 1699026546309,
+        "duration": 760,
+        "status": "PASSED"
+      }
+    ]
+  },
+  {
+    "name": "should have correct page title",
+    "appName": "react-example",
+    "runs": [
+      {
+        "timestamp": 1699026546312,
+        "duration": 793,
+        "status": "PASSED"
+      }
+    ]
+  },
+  {
+    "name": "should have correct page title",
+    "appName": "react-example",
+    "runs": [
+      {
+        "timestamp": 1699026547620,
+        "duration": 307,
+        "status": "PASSED"
+      }
+    ]
+  },
+  {
+    "name": "should have correct button description",
+    "appName": "react-example",
+    "runs": [
+      {
+        "timestamp": 1699026547041,
+        "duration": 806,
+        "status": "PASSED"
+      }
+    ]
+  },
+  {
+    "name": "should change background colour when button clicked once",
+    "appName": "react-example",
+    "runs": [
+      {
+        "timestamp": 1699026548103,
+        "duration": 268,
+        "status": "PASSED"
+      }
+    ]
+  },
+  {
+    "name": "should change background colour when button clicked once",
+    "appName": "react-example",
+    "runs": [
+      {
+        "timestamp": 1699026547041,
+        "duration": 970,
+        "status": "PASSED"
+      }
+    ]
+  },
+  {
+    "name": "should change background colour each time button is clicked",
+    "appName": "react-example",
+    "runs": [
+      {
+        "timestamp": 1699026547271,
+        "duration": 1203,
+        "status": "PASSED"
+      }
+    ]
+  },
+  {
+    "name": "should have correct button description",
+    "appName": "react-example",
+    "runs": [
+      {
+        "timestamp": 1699026549968,
+        "duration": 219,
+        "status": "PASSED"
+      }
+    ]
+  },
+  {
+    "name": "should change background colour each time button is clicked",
+    "appName": "react-example",
+    "runs": [
+      {
+        "timestamp": 1699026550523,
+        "duration": 619,
+        "status": "PASSED"
+      }
+    ]
+  }
+]
