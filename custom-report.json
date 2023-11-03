@@ -1,44 +1,12 @@
 [
   {
-    "name": "should have correct page title",
-    "appName": "react-example",
-    "runs": [
-      {
-        "timestamp": 1699026546296,
-        "duration": 220,
-        "status": "PASSED"
-      }
-    ]
-  },
-  {
     "name": "should have correct button description",
     "appName": "react-example",
+    "repo": "git@github.com:bryce-bardwell/react-playwright-example.git",
     "runs": [
       {
-        "timestamp": 1699026546304,
-        "duration": 220,
-        "status": "PASSED"
-      }
-    ]
-  },
-  {
-    "name": "should change background colour when button clicked once",
-    "appName": "react-example",
-    "runs": [
-      {
-        "timestamp": 1699026546304,
-        "duration": 423,
-        "status": "PASSED"
-      }
-    ]
-  },
-  {
-    "name": "should change background colour each time button is clicked",
-    "appName": "react-example",
-    "runs": [
-      {
-        "timestamp": 1699026546309,
-        "duration": 760,
+        "timestamp": 1699027066680,
+        "duration": 235,
         "status": "PASSED"
       }
     ]
@@ -46,10 +14,35 @@
   {
     "name": "should have correct page title",
     "appName": "react-example",
+    "repo": "git@github.com:bryce-bardwell/react-playwright-example.git",
     "runs": [
       {
-        "timestamp": 1699026546312,
-        "duration": 793,
+        "timestamp": 1699027066675,
+        "duration": 238,
+        "status": "PASSED"
+      }
+    ]
+  },
+  {
+    "name": "should change background colour when button clicked once",
+    "appName": "react-example",
+    "repo": "git@github.com:bryce-bardwell/react-playwright-example.git",
+    "runs": [
+      {
+        "timestamp": 1699027066682,
+        "duration": 443,
+        "status": "PASSED"
+      }
+    ]
+  },
+  {
+    "name": "should change background colour each time button is clicked",
+    "appName": "react-example",
+    "repo": "git@github.com:bryce-bardwell/react-playwright-example.git",
+    "runs": [
+      {
+        "timestamp": 1699027066670,
+        "duration": 736,
         "status": "PASSED"
       }
     ]
@@ -57,10 +50,11 @@
   {
     "name": "should have correct page title",
     "appName": "react-example",
+    "repo": "git@github.com:bryce-bardwell/react-playwright-example.git",
     "runs": [
       {
-        "timestamp": 1699026547620,
-        "duration": 307,
+        "timestamp": 1699027066679,
+        "duration": 765,
         "status": "PASSED"
       }
     ]
@@ -68,10 +62,23 @@
   {
     "name": "should have correct button description",
     "appName": "react-example",
+    "repo": "git@github.com:bryce-bardwell/react-playwright-example.git",
     "runs": [
       {
-        "timestamp": 1699026547041,
-        "duration": 806,
+        "timestamp": 1699027067499,
+        "duration": 769,
+        "status": "PASSED"
+      }
+    ]
+  },
+  {
+    "name": "should have correct page title",
+    "appName": "react-example",
+    "repo": "git@github.com:bryce-bardwell/react-playwright-example.git",
+    "runs": [
+      {
+        "timestamp": 1699027068005,
+        "duration": 577,
         "status": "PASSED"
       }
     ]
@@ -79,21 +86,11 @@
   {
     "name": "should change background colour when button clicked once",
     "appName": "react-example",
+    "repo": "git@github.com:bryce-bardwell/react-playwright-example.git",
     "runs": [
       {
-        "timestamp": 1699026548103,
-        "duration": 268,
-        "status": "PASSED"
-      }
-    ]
-  },
-  {
-    "name": "should change background colour when button clicked once",
-    "appName": "react-example",
-    "runs": [
-      {
-        "timestamp": 1699026547041,
-        "duration": 970,
+        "timestamp": 1699027067501,
+        "duration": 952,
         "status": "PASSED"
       }
     ]
@@ -101,10 +98,23 @@
   {
     "name": "should change background colour each time button is clicked",
     "appName": "react-example",
+    "repo": "git@github.com:bryce-bardwell/react-playwright-example.git",
     "runs": [
       {
-        "timestamp": 1699026547271,
-        "duration": 1203,
+        "timestamp": 1699027068818,
+        "duration": 561,
+        "status": "PASSED"
+      }
+    ]
+  },
+  {
+    "name": "should change background colour each time button is clicked",
+    "appName": "react-example",
+    "repo": "git@github.com:bryce-bardwell/react-playwright-example.git",
+    "runs": [
+      {
+        "timestamp": 1699027067697,
+        "duration": 1269,
         "status": "PASSED"
       }
     ]
@@ -112,21 +122,23 @@
   {
     "name": "should have correct button description",
     "appName": "react-example",
+    "repo": "git@github.com:bryce-bardwell/react-playwright-example.git",
     "runs": [
       {
-        "timestamp": 1699026549968,
-        "duration": 219,
+        "timestamp": 1699027070317,
+        "duration": 216,
         "status": "PASSED"
       }
     ]
   },
   {
-    "name": "should change background colour each time button is clicked",
+    "name": "should change background colour when button clicked once",
     "appName": "react-example",
+    "repo": "git@github.com:bryce-bardwell/react-playwright-example.git",
     "runs": [
       {
-        "timestamp": 1699026550523,
-        "duration": 619,
+        "timestamp": 1699027071049,
+        "duration": 324,
         "status": "PASSED"
       }
     ]
