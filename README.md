@@ -13,3 +13,7 @@ Contains a custom reporter which outputs the results of tests to `custom-report.
 
 - Run `yarn run test-ct` to run the Playwright tests
   - You may need to [install Playwright](https://playwright.dev/docs/intro) first.
+
+## Custom Report
+
+The custom report is generated at `/custom-report.json`. You can explore how it was written and include other fields by editing the files found at `src/custom-reporter`.
