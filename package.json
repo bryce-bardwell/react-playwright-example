@@ -1,6 +1,7 @@
 {
   "name": "react-example",
   "version": "0.1.0",
+  "description": "A repository showing how playwright can be used with React to test UI components and their functionality.",
   "repository": "git@github.com:bryce-bardwell/react-playwright-example.git",
   "private": true,
   "dependencies": {
